@@ -10,3 +10,5 @@ Bibliotecas
 boas praticas de posicionamento das funcoes
 
 Camel Case;
+
+funções com parametros
